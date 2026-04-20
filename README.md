@@ -5,7 +5,7 @@ A clean, responsive Bible reading web app — no frameworks, no dependencies bey
 ## 🗂 Folder Structure
 
 ```
-bible-app/
+Holy-Bible-Reader/
 ├── index.html
 ├── css/
 │   └── styles.css
